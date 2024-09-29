@@ -1,6 +1,10 @@
 # Purple Project Redux
 
-- Purple Project: 14.5” x 8” x 3/4”
+A recreation of TheTrain's Purple Project seen here:
+(Insert r/fightsticks sale post)
+(Insert OpenStickCommunity showcase post)
+
+(Insert Personal Pictures)
 
 4 Variations:
 - Purple Project Redux: 14" x 8" x 1.25"
@@ -26,3 +30,5 @@ Each designed part can fit in a 250x250x250 volume
 	- Bottom Middle
 	- Bottom Right
 - Printed in Voron Spec
+
+To-do:
