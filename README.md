@@ -1,4 +1,4 @@
-# Purple-Project-Redux
+# Purple Project Redux
 
 - Purple Project: 14.5” x 8” x 3/4”
 
