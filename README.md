@@ -7,7 +7,7 @@ A recreation of TheTrain's Purple Project seen here:
 
 (Insert Personal Showcase Pictures)
 
-## Directory:
+## Github Directory:
 * [Full Readme](https://github.com/phazil/Purple-Project-Redux/blob/main/README.md)
 	* Bill of Materials
    	* Ordering Panels and PCBs
@@ -15,7 +15,7 @@ A recreation of TheTrain's Purple Project seen here:
 	* Rough Assembly Guide
  	* Editting Parts
 
-## Features and Details
+## Features, Details, and To-Dos
 
 4 Variations:
 - Purple Project Redux: 35.56cm x 20.32cm x 2.32cm (14" x 8" x 0.9")
