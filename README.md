@@ -17,7 +17,7 @@ A recreation of TheTrain's Purple Project seen here:
 
 2 Variations:
 - Purple Project Redux: 35.56cm x 20.32cm x 2.32cm (14" x 8" x 0.9")
-- Acrylic Layer Version: 35.56cm x 20.32cm x 2.47cm (14" x 8" x 0.97")
+- ** UNTESTED ** Acrylic Layer Version: 35.56cm x 20.32cm x 2.47cm (14" x 8" x 0.97")
 
 Features:
 - Daigo-ish Layout
@@ -26,7 +26,7 @@ Features:
 	- Mirrored for both sides
 - Right side carrying handle (https://www.amazon.com/dp/B085ZRBTPY)
 - PCB top/bottom plate (1.6mm)
-- Possible Acrylic Top Plate (3mm total thickness, only screw ins work)
+- Possible Acrylic Top Plate (3.1mm total thickness, only screw ins work)
 - Designed PCB Auxilliary Button Panel
 
 Each designed part can fit in a 250x250x250 volume
@@ -37,4 +37,4 @@ Each designed part can fit in a 250x250x250 volume
 	- Bottom Left
 	- Bottom Middle
 	- Bottom Right
-- Printed in Voron Spec
+- Printed in [Voron Spec](https://docs.vorondesign.com/sourcing.html) hopefully
