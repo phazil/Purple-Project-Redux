@@ -1,10 +1,17 @@
 # Purple Project Redux
 
 A recreation of TheTrain's Purple Project seen here:
-(Insert r/fightsticks sale post)
-(Insert OpenStickCommunity showcase post)
+[r/fightsticks Sale Post](https://discord.com/channels/420289097983197194/1164376794527432725/1164376794527432725)
+[OpenStickCommunity Post #1](https://discord.com/channels/1049366310389289001/1049370139960819793/1161673661502214194)
+[OpenStickCommunity Post #2](https://discord.com/channels/1049366310389289001/1164377854142840863/1164377854142840863)
 
-(Insert Personal Pictures)
+(Insert Personal Showcase Pictures)
+
+## Directory:
+* [Full Readme](https://github.com/phazil/Purple-Project-Redux/blob/main/README.md)
+	* Bill of Materials
+ 	* Printing Parts
+	* Rough Assembly Guide
 
 4 Variations:
 - Purple Project Redux: 14" x 8" x 1.25"
