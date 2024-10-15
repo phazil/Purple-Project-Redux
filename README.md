@@ -33,7 +33,7 @@ Each designed part can fit in a 250x250x250 volume
 - 6 total pieces
 	- Top Left
 	- Top Right
-	- Top Middle (Requires USB-C panel mount)
+	- Top Middle (Requires USB-C keystone jack panel mount)
 	- Bottom Left
 	- Bottom Middle
 	- Bottom Right
