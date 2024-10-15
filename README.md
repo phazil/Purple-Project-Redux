@@ -12,6 +12,7 @@ A recreation of TheTrain's Purple Project seen here:
 	* Bill of Materials
  	* Printing Parts
 	* Rough Assembly Guide
+ 	* Editting Parts
 
 ## Features and Details
 
