@@ -13,10 +13,11 @@ A recreation of TheTrain's Purple Project seen here:
  	* Printing Parts
 	* Rough Assembly Guide
 
-4 Variations:
-- Purple Project Redux: 14" x 8" x 1.25"
-- Purple Project Redux Full Size: 14" x 8" x 1.75"
-- Acrylic Top layer versions of both
+## Features and Details
+
+2 Variations:
+- Purple Project Redux: 35.56cm x 20.32cm x 2.32cm (14" x 8" x 0.9")
+- Acrylic Layer Version: 35.56cm x 20.32cm x 2.47cm (14" x 8" x 0.97")
 
 Features:
 - Daigo-ish Layout
