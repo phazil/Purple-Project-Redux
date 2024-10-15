@@ -41,3 +41,11 @@ Each designed part can fit in a 250x250x250 volume print bed
 	- Bottom Middle
 	- Bottom Right
 - Printed in [Voron Spec](https://docs.vorondesign.com/sourcing.html) hopefully
+
+To Do's:
+- BOM Page written
+- Ordering Page written
+- Printing Parts written
+- Rough Assembly Guide written
+- Editting Parts written
+- Bottom Rubber/Foam pad DXFs
