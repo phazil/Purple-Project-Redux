@@ -10,6 +10,7 @@ A recreation of TheTrain's Purple Project seen here:
 ## Directory:
 * [Full Readme](https://github.com/phazil/Purple-Project-Redux/blob/main/README.md)
 	* Bill of Materials
+   	* Ordering Panels and PCBs
  	* Printing Parts
 	* Rough Assembly Guide
  	* Editting Parts
