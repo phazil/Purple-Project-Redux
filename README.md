@@ -27,7 +27,7 @@ Features:
 - Right side carrying handle (https://www.amazon.com/dp/B085ZRBTPY)
 - PCB top/bottom plate (1.6mm)
 - Possible Acrylic Top Plate (3mm total thickness, only screw ins work)
-- PCB Auxilliary Button Panel
+- Designed PCB Auxilliary Button Panel
 
 Each designed part can fit in a 250x250x250 volume
 - 6 total pieces
@@ -38,5 +38,3 @@ Each designed part can fit in a 250x250x250 volume
 	- Bottom Middle
 	- Bottom Right
 - Printed in Voron Spec
-
-To-do:
