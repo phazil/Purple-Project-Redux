@@ -18,6 +18,7 @@ A recreation of TheTrain's Purple Project seen here:
 2 Variations:
 - Purple Project Redux: 35.56cm x 20.32cm x 2.32cm (14" x 8" x 0.9")
 - **UNTESTED** Acrylic Layer Version: 35.56cm x 20.32cm x 2.47cm (14" x 8" x 0.97")
+- Right side carrying handle modifcation available for both
 
 Features:
 - Daigo-ish Layout
