@@ -30,7 +30,7 @@ Features:
 - Possible Acrylic Top Plate (3.1mm total thickness, only screw ins work)
 - Designed PCB Auxilliary Button Panel
 
-Each designed part can fit in a 250x250x250 volume
+Each designed part can fit in a 250x250x250 volume print bed
 - 6 total pieces
 	- Top Left
 	- Top Right
