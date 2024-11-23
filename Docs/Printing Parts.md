@@ -16,7 +16,7 @@ Each designed part can fit in a **250x250x250 volume** print bed
 
 Total print time is about **10 hours** and around **11 with supports**.
 
-Total filament used is about **300 grams**.
+Total filament used is about **300 grams**. All parts were designed with PLA usage in mind, you would have to account for ABS/ASA shrinkage on your own if you're interested in that material. PETG is also useable too. PLA users please remember to take care of storing this controller in 90*F weather as it may warp in direct sunlight.
 
 All parts are already orientated in printing position. The PCB piece can use **tree supports on the build plate only**. 
 - 6 total pieces
