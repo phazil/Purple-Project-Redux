@@ -33,7 +33,9 @@ There is a mix of Aliexpress links and Amazon links used here. There is no affil
 - Button Panel
   - Optional Acrylic Layer
 - Back Panel
-- 14 M3x4/6 screws
+- 20 M3x4/6 screws
+  - 14 screws for the panels
+  - 6 for holding down PCBs inside
 - 14 M3x5x4 Heatset Inserts
 - 1 USB-C Keystone Jack
 - 1 Advanced/Basic Breakout Board
