@@ -46,7 +46,7 @@ Each designed part can fit in a 250x250x250 volume print bed
 To Do's:
 - BOM Page written
 - Ordering Page written
-- Printing Parts written
+- ~~Printing Parts written~~
 - Rough Assembly Guide written
-- Editting Parts written
+- ~~Editting Parts written~~
 - Bottom Rubber/Foam pad DXFs
