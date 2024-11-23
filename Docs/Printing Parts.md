@@ -7,8 +7,18 @@
 	* [Rough Assembly Guide](https://github.com/phazil/Purple-Project-Redux/blob/main/Docs/Assembly%20Guide.md)
  	* [Editting Parts](https://github.com/phazil/Purple-Project-Redux/blob/main/Docs/Editting%20Parts.md)
 
-Each designed part can fit in a 250x250x250 volume print bed
-All parts are already orientated in printing position. The PCB piece can use tree supports on the build plate only. 
+## Printing Parts:
+The [STL folder](https://github.com/phazil/Purple-Project-Redux/tree/main/For%20Makers/STLs) is organized for you to print the base version then expand onto any variations you're interested in.
+
+***The Stickless+ Version Panels has the USB-C Keystone Passthrough collide with the button housings, an alternative version is provided where the USB-C port is shifted over to avoid colliding if you're not interested in clipping the port down.***
+
+Each designed part can fit in a **250x250x250 volume** print bed
+
+Total print time is about **10 hours** and around **11 with supports**.
+
+Total filament used is about **300 grams**.
+
+All parts are already orientated in printing position. The PCB piece can use **tree supports on the build plate only**. 
 - 6 total pieces
 	- Top Left
 	- Top Right
@@ -16,11 +26,6 @@ All parts are already orientated in printing position. The PCB piece can use tre
 	- Bottom Left
 	- Bottom Middle
 	- Bottom Right
-
-Total print time is about 10 hours and around 11 with supports.
-Total filament used is about 300 grams.
-
-The [STL folder](https://github.com/phazil/Purple-Project-Redux/tree/main/For%20Makers/STLs) is organized for you to print the base version then expand onto any variations you're interested in.
 
 These settings help give a rigid feeling when putting the build together. Although 3 walls/top layers will also work with a 20% infill density
 - Printed in [Voron Spec](https://docs.vorondesign.com/sourcing.html#print-settings) hopefully
