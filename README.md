@@ -1,11 +1,14 @@
 # Purple Project Redux
 
 A recreation of TheTrain's Purple Project seen here:
-[r/fightsticks Sale Post](https://discord.com/channels/420289097983197194/1164376794527432725/1164376794527432725)
-[OpenStickCommunity Post #1](https://discord.com/channels/1049366310389289001/1049370139960819793/1161673661502214194)
-[OpenStickCommunity Post #2](https://discord.com/channels/1049366310389289001/1164377854142840863/1164377854142840863)
+[Reference Posts](https://github.com/phazil/Purple-Project-Redux/blob/main/Docs/Inspiration%20Posts.md)
 
-(Insert Personal Showcase Pictures)
+This started out as a post graduation project (someone hire me pls) to explore deeper into the hobbies I was already interested in. Did all of the CAD/KiCAD work myself as a Biology major, and also because I missed out on the originals Train posted. Lots were learned here, and documenting it all isn't as fun as making it but I guess it's necessary lol.
+
+If you need any help or are even thinking about making this please contact me on Discord! I'd be willing to help. @phazil
+
+![Showcase Test](https://github.com/phazil/Purple-Project-Redux/blob/main/Images/Personal%20Builds/20241123_215220454_iOS.jpg)
+![Showcase Test 2](https://github.com/phazil/Purple-Project-Redux/blob/main/Images/Personal%20Builds/20241123_140203437_iOS.jpg)
 
 ## Repository Directory:
 * [Full Readme](https://github.com/phazil/Purple-Project-Redux/blob/main/README.md)
@@ -18,7 +21,7 @@ A recreation of TheTrain's Purple Project seen here:
 
 ## Features, Details, and To-Dos
 
-4 Variations:
+3 Variations:
 - Purple Project Redux: 35.56cm x 20.32cm x 2.32cm (14" x 8" x 0.9")
 - **UNTESTED** Acrylic Layer Version: 35.56cm x 20.32cm x 2.47cm (14" x 8" x 0.97")
 - Right side carrying handle modifcation available for both
