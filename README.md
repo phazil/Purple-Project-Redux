@@ -9,12 +9,12 @@ A recreation of TheTrain's Purple Project seen here:
 
 ## Repository Directory:
 * [Full Readme](https://github.com/phazil/Purple-Project-Redux/blob/main/README.md)
-	* Reference Posts
-	* Bill of Materials
-   	* Ordering Panels and PCBs
- 	* Printing Parts
-	* Rough Assembly Guide
- 	* Editting Parts
+	* [Reference Posts](https://github.com/phazil/Purple-Project-Redux/blob/main/Docs/Inspiration%20Posts.md)
+	* [Bill of Materials](https://github.com/phazil/Purple-Project-Redux/blob/main/Docs/Bill%20of%20Materials.md)
+   	* [Ordering Panels and PCBs](https://github.com/phazil/Purple-Project-Redux/blob/main/Docs/Ordering%20Guide.md)
+ 	* [Printing Parts](https://github.com/phazil/Purple-Project-Redux/blob/main/Docs/Printing%20Parts.md)
+	* [Rough Assembly Guide](https://github.com/phazil/Purple-Project-Redux/blob/main/Docs/Assembly%20Guide.md)
+ 	* [Editting Parts](https://github.com/phazil/Purple-Project-Redux/blob/main/Docs/Editting%20Parts.md)
 
 ## Features, Details, and To-Dos
 
@@ -41,12 +41,12 @@ Each designed part can fit in a 250x250x250 volume print bed
 	- Bottom Left
 	- Bottom Middle
 	- Bottom Right
-- Printed in [Voron Spec](https://docs.vorondesign.com/sourcing.html) hopefully
+- Printed in [Voron Spec](https://docs.vorondesign.com/sourcing.html#print-settings) hopefully
 
 To Do's:
-- BOM Page written
+- ~~BOM Page written~~
 - Ordering Page written
-- Printing Parts written
+- ~~Printing Parts written~~
 - Rough Assembly Guide written
-- Editting Parts written
+- ~~Editting Parts written~~
 - Bottom Rubber/Foam pad DXFs
