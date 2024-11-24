@@ -3,7 +3,7 @@
 A recreation of TheTrain's Purple Project seen here:
 [Reference Posts](https://github.com/phazil/Purple-Project-Redux/blob/main/Docs/Inspiration%20Posts.md)
 
-This started out as a post graduation project (someone hire me pls) to explore deeper into the hobbies I was already interested in. Did all of the CAD/KiCAD work myself as a Biology major, and also because I missed out on the originals Train posted. Lots were learned here, and documenting it all isn't as fun as making it but I guess it's necessary lol.
+This started out as a post graduation project (someone in biology hire me pls) to explore deeper into the hobbies I was already interested in. Did all of the CAD/KiCAD work myself, and also because I missed out on the originals Train posted. Lots were learned here, and documenting it all isn't as fun as making it but I guess it's necessary lol. This is my attempt to recreate Train's version, however there are differences. There is no custom wiring terminal pcb, it's not double stacked FR4 for both front/back panel, and there's no usage of low profile OSBMXs.
 
 If you need any help or are even thinking about making this please contact me on Discord! I'd be willing to help. @phazil
 
@@ -24,7 +24,7 @@ If you need any help or are even thinking about making this please contact me on
 3 Variations:
 - Purple Project Redux: 35.56cm x 20.32cm x 2.32cm (14" x 8" x 0.9")
 - **UNTESTED** Acrylic Layer Version: 35.56cm x 20.32cm x 2.47cm (14" x 8" x 0.97")
-- Right side carrying handle modifcation available for both
+- Right side carrying handle modifcation available for both (Adds about 1.25" to total length)
 
 Features:
 - Daigo-ish Layout
