@@ -1,6 +1,6 @@
 # Purple Project Redux
 
-A recreation of TheTrain's Purple Project seen here:
+A recreation of @TheTrain24's Purple Project seen here:
 [Reference Posts](https://github.com/phazil/Purple-Project-Redux/blob/main/Docs/Inspiration%20Posts.md)
 
 This started out as a post graduation project (someone in biology hire me pls) to explore deeper into the hobbies I was already interested in. Did all of the CAD/KiCAD work myself, and also because I missed out on the originals Train posted. Lots were learned here, and documenting it all isn't as fun as making it but I guess it's necessary lol. 
