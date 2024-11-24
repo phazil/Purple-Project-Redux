@@ -25,12 +25,12 @@ If you need any help or are even thinking about making this please contact me on
 
 ## Features, Details, and To-Dos
 
-3 Variations:
+### 3 Variations:
 - Purple Project Redux: 35.56cm x 20.32cm x 2.32cm (14" x 8" x 0.9")
 - **UNTESTED** Acrylic Layer Version: 35.56cm x 20.32cm x 2.47cm (14" x 8" x 0.97")
 - Right side carrying handle modifcation available for both (Adds about 1.25" to total length)
 
-Features:
+### Features:
 - Daigo-ish Layout
 - Stickless+
 - Bottom Rubber Pads
@@ -50,10 +50,10 @@ Each designed part can fit in a 250x250x250 volume print bed
 	- Bottom Right
 - Printed in [Voron Spec](https://docs.vorondesign.com/sourcing.html#print-settings) hopefully
 
-To Do's:
-- ~~BOM Page written~~
-- ~~Ordering Page written~~
-- ~~Printing Parts written~~
-- ~~Rough Assembly Guide written~~
-- ~~Editting Parts written~~
-- Bottom Rubber/Foam pad DXFs
+### To Do's:
+- [x] BOM Page written
+- [x] Ordering Page written
+- [x] Printing Parts written
+- [x] Rough Assembly Guide written
+- [x] Editting Parts written
+- [ ] Bottom Rubber/Foam pad DXFs
