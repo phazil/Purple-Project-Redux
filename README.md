@@ -7,7 +7,7 @@ This started out as a post graduation project (someone in biology hire me pls) t
 
 This is my attempt to recreate Train's version, however there are differences. There is no custom wiring terminal pcb, it's not double stacked FR4 for both front/back panel, and there's no usage of low profile OSBMXs. I used a right angle header soldered onto a Basic Breakout Board running GP2040-CE along with a 20-pin wiring harness. There is some soldering involved in this to get the menu panel working however it is sequential and there's only 1 ground line needed.
 
-As regards for making and selling, I do not think this is the most efficient way to go about it. Originally they were scrapped due to the FR4 panels being more expensive than I would've assumed. Using laser cut acrylic is probably more efficient for anything of the sorts. Total cost for making 5 of these is about $700 with the materials I chose, so around $160 each is close to breaking even. This does not at all account for the time needed to print parts or build this.
+As regards for making and selling, I do not think this is the most efficient way to go about it. The original project I am pretty sure was scrapped due to how expensive FR4 panels end up being. Using laser cut acrylic is probably more efficient for anything of the sorts. Total cost for making 5 of these is about $700 with the materials I chose, so around $160 each is close to breaking even. This does not at all account for the time needed to print parts or build this.
 
 If you need any help or are even thinking about making this please contact me on Discord! I'd be willing to help. @phazil
 
