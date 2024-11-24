@@ -35,7 +35,7 @@ Features:
 - Stickless+
 - Bottom Rubber Pads
 	- Mirrored for both sides
-- Right side carrying handle (https://www.amazon.com/dp/B085ZRBTPY)
+- Right side carrying handle
 - PCB top/bottom plate (1.6mm)
 - Possible Acrylic Top Plate (3.1mm total thickness, only screw ins work)
 - Designed PCB Auxilliary Button Panel
